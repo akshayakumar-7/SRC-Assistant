@@ -1,6 +1,6 @@
 # SRC Assistant
 
-An AI-powered campus assistant designed to help SRC Kumbakonam students find campus locations, explore facilities, and get answers through a simple web interface.
+An AI-powered campus assistant designed to help SASTRA SRC Kumbakonam students find campus locations, explore facilities, and get answers through a simple web interface.
 
 ## Features
 
@@ -12,11 +12,11 @@ An AI-powered campus assistant designed to help SRC Kumbakonam students find cam
 - Basic campus floor and route support
 - Web-based chat interface
 
-*Note: Features and campus data are still under development.*
+**Project status:** Under development. Some campus information and navigation features may be incomplete.
 
 ## Requirements
 
-- Python 3.12 recommended
+- Python 3.12
 - Git
 - A Groq API key for AI-powered responses
 
@@ -25,11 +25,9 @@ An AI-powered campus assistant designed to help SRC Kumbakonam students find cam
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_FOLDER
+git clone https://github.com/akshayakumar-7/SRC-Assistant.git
+cd SRC-Assistant
 ```
-
-Replace the example values with the repository URL and folder name.
 
 ### 2. Create a virtual environment
 
@@ -39,7 +37,7 @@ py -3.12 -m venv .venv
 
 Activate it on Windows:
 
-```bash
+```powershell
 .venv\Scripts\activate
 ```
 
@@ -49,17 +47,25 @@ Activate it on Windows:
 python -m pip install -r requirements.txt
 ```
 
-### 4. Configure the API key
+### 4. Configure your API key
 
-Create a file named `.env` in the project root.
+Copy `.env.example` to a new file named `.env` in the project root.
 
-Add your own key:
+On Windows Command Prompt, you can use:
 
-```env
+```bat
+copy .env.example .env
+```
+
+Open `.env` and enter your own Groq API key:
+
+```dotenv
 GROQ_API_KEY=your_own_groq_api_key
 ```
 
-Never publish your `.env` file or share your private API key.
+Get your key through the [Groq Console](https://console.groq.com/).
+
+**Never upload or share your `.env` file or API key.** Each user should use their own key.
 
 ### 5. Run the application
 
@@ -67,7 +73,7 @@ Never publish your `.env` file or share your private API key.
 python app.py
 ```
 
-Open the local address displayed in the terminal, usually:
+Open this address in your browser:
 
 http://127.0.0.1:5000
 
@@ -79,30 +85,28 @@ SRC-Assistant/
 ├── locations.json
 ├── aliases.json
 ├── campus_graph.json
+├── location_matching.py
+├── navigation.py
+├── navigation_names.py
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
 ├── README.md
 ├── templates/
-│   ├── landing.html
-│   └── index.html
 └── static/
-    └── frontend assets
 ```
-
-The structure above is illustrative. Check the actual repository for the complete list of files.
 
 ## Important Notes
 
 - Campus information depends on the supplied JSON data.
 - Some locations, aliases and navigation features may be incomplete.
-- AI-generated answers are not a substitute for verified campus records.
-- AI features require a valid API key and may be subject to the provider's usage limits.
-- Do not commit API keys, passwords, or other secrets.
+- AI-generated answers may be inaccurate; verify important campus information.
+- AI features require a valid Groq API key and are subject to provider limits.
+- Never commit API keys, passwords or other secrets.
 
 ## Contributing
 
-Contributions, bug reports, and suggestions are welcome. Please test changes before submitting them and avoid including private credentials in commits.
+Suggestions, bug reports and improvements are welcome. Please test changes before submitting them, and never include private credentials in commits.
 
 ## Project Status
 
