@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SRC Assistant</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    overflow:hidden;
+    background:black;
+    font-family:Arial, sans-serif;
+}
+
+video{
+    width:100vw;
+    height:100vh;
+    object-fit:cover;
+}
+
+.bot-logo{
+    position:fixed;
+    bottom:25px;
+    right:25px;
+
+    width:90px;
+    height:90px;
+
+    border-radius:50%;
+    cursor:pointer;
+
+    animation:float 2s ease-in-out infinite;
+
+    box-shadow:
+    0 0 10px #00ffff,
+    0 0 20px #00ffff,
+    0 0 40px #00ffff;
+}
+
+@keyframes float{
+    0%{
+        transform:translateY(0px);
+    }
+    50%{
+        transform:translateY(-10px);
+    }
+    100%{
+        transform:translateY(0px);
+    }
+}
+
+.bot-logo:hover{
+    transform:scale(1.15);
+}
+
+.overlay-text{
+    position:absolute;
+    top:30px;
+    left:50%;
+    transform:translateX(-50%);
+
+    color:#12dae0;
+
+    font-size:2.5rem;
+    font-weight:bold;
+
+    font-family:"Brush Script MT", cursive;
+
+    text-shadow:0 0 10px rgba(42,82,190,0.5);
+}
+</style>
+
+</head>
+<body>
+
+<div class="overlay-text">
+    Welcome to SRC Assistant
+</div>
+
+<video autoplay muted loop>
+    <source src="{{ url_for('static', filename='tutorial.mp4') }}" type="video/mp4">
+</video>
+
+<img
+    src="{{ url_for('static', filename='logo.jpeg') }}"
+    class="bot-logo"
+    onclick="window.location.href='/chatbot'"
+/>
+
+</body>
+</html>

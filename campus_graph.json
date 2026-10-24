@@ -1,0 +1,73 @@
+{
+  "floor1": [
+    "j.b.s.haldane hall",
+    "susruta hall",
+    "aryabhata hall",
+    "e.donnal thomas hall",
+    "brahmagupta hall",
+    "savai jai singh hall",
+    "m.visvesvaraya hall",
+    "microbiology laboratory",
+    "b.c.roy hall",
+    "bhaskaracaracharia hall",
+    "chandraskhar hall",
+    "joseph e.murray hall",
+    "vikram sarabhai hall",
+    "computer lab 1"
+  ],
+
+  "floor2": [
+    "dr.hargobind khorana hall",
+    "satyendranath bose hall",
+    "sir upendranath brahmachari hall",
+    "m.anand chakarabarty hall",
+    "shambhunath hall",
+    "sathish dhawan hall",
+    "michael s.brown hall",
+    "joseph l.goldstein hall",
+    "k.s.krishnan hall",
+    "jayant vishnu narlikar hall",
+    "swaminathan hall",
+    "vainu bappu hall"
+  ],
+
+  "floor3": [
+    "s.k.mitra hall",
+    "sudharshan hall",
+    "dr.rajaramana hall",
+    "dr.p.k.sent hall",
+    "dr.j.j.rawal hall",
+    "c.k.n.patel hall",
+    "g.n.ramachandran hall",
+    "max theiler hall",
+    "c.radhakrishna rao hall",
+    "c.n.ramachandra rao hall",
+    "sir ronald ross hall",
+    "t.r.seshadri hall",
+    "daniel bovet hall",
+    "leelavathy hall",
+    "s.p.agharkar hall",
+    "wadia hall",
+    "dr.s.bhagvantam hall"
+  ],
+
+  "floor4": [
+    "pythagoras hall",
+    "alexander graham bell hall",
+    "blaise pascal hall",
+    "charles darwin hall",
+    "madam curie hall",
+    "galileo galilei hall",
+    "max planck hall",
+    "sir issac newton hall",
+    "sir alexander fleming hall",
+    "archimedes hall",
+    "benjamin franklin hall",
+    "guflielmo marconi hall",
+    "john logi baird hall",
+    "alfred bernhard nobel hall",
+    "democritus hall",
+    "paul ehrlich hall",
+    "ivan p.pavlov hall"
+  ]
+}

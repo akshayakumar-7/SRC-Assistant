@@ -1,0 +1,180 @@
+{
+  "room 101": "J.B.S.HALDANE HALL",
+  "room 102": "SUSRUTA HALL",
+  "room 103": "ARYABHATA HALL",
+  "room 104": "E.DONNAL THOMAS HALL",
+  "room 105": "BRAHMAGUPTA HALL",
+  "room 106": "SAVAI JAI SINGH HALL",
+  "room 107": "M.VISVESVARAYA HALL",
+  "room 108": "microbiology laboratory",
+  "room 109": "B.C.ROY HALL",
+  "room 110": "BHASKARACARACHARIA HALL",
+  "room 111": "CHANDRASKHAR HALL",
+  "room 112": "JOSEPH E.MURRAY HALL",
+
+  "room 201": "dr.hargobind khorana hall",
+  "room 202": "satyendranath bose hall",
+  "room 203": "sir upendranath brahmachari hall",
+  "room 204": "m.anand chakarabarty hall",
+  "room 206": "shambhunath hall",
+  "room 207": "sathish dhawan hall",
+  "room 208": "michael s.brown hall",
+  "room 209": "joseph l.goldstein hall",
+  "room 210": "k.s.krishnan hall",
+  "room 211": "jayant vishnu narlikar hall",
+  "room 212": "swaminathan hall",
+  "room 213": "vainu bappu hall",
+
+  "sh": "swaminathan hall",
+  "vbh": "vainu bappu hall",
+  "sbh": "satyendranath bose hall",
+  "jvn hall": "jayant vishnu narlikar hall",
+
+  "computer lab": "cOMPUTER LAB 1",
+  "lab 1": "cOMPUTER LAB 1",
+  "computer laboratory": "cOMPUTER LAB 1",
+
+  "room 301": "S.K.MITRA hall",
+  "room 302": "SUDHARSHAN hall",
+  "room 303": "DR.RAJARAMANA hall",
+  "room 304": "DR.P.K.SENT hall",
+  "room 305": "DR.J.J.RAWALhall",
+  "room 306": "C.K.N.PATEL hall",
+  "room 307": "G.N.RAMACHANDRAN hall",
+  "room 308": "max theiler hall",
+  "room 309": "C.RADHAKRISHNA RAO hall",
+  "room 310": "C.N.RAMACHANDRA RAO hall",
+  "room 311": "SIR RONALD ROSS hall",
+  "room 312": "T.R.SESHADRI hall",
+  "room 313": "DANIEL BOVET hall",
+  "room 314": "LEELAVATHY hall",
+  "room 315": "S.P.AGHARKAR hall",
+  "room 316": "WADIA hall",
+  "room 317": "DR.S.BHAGVANTAM hall",
+
+  "room 401": "PYTHAGORAS HALL",
+  "room 402": "ALEXANDER GRAHAM BELL HALL",
+  "room 404": "BLAISE PASCAL HALL",
+  "room 405": "CHARLES DARWIN HALL",
+  "room 406": "MADAM CURIE HALL",
+  "room 407": "GALILEO GALILEI HALL",
+  "room 408": "MAX PLANCK HALL",
+  "room 409": "SIR ISSAC NEWTON HALL",
+  "room 410": "SIR ALEXANDER FLEMING HALL",
+  "room 411": "ARCHIMEDES HALL",
+  "room 412": "BENJAMIN FRANKLIN HALL",
+  "room 413": "GUFLIELMO MARCONI HALL",
+  "room 414": "JOHN LOGI BAIRD HALL",
+  "room 415": "ALFRED BERNHARD NOBEL HALL",
+  "room 416": "DEMOCRITUS HALL",
+  "room 417": "PAUL EHRLICH HALL",
+
+  "swaminathan": "swaminathan hall",
+  "swaminathan hall": "swaminathan hall",
+
+  "vainu bappu": "vainu bappu hall",
+  "vainu bappu hall": "vainu bappu hall",
+
+  "democritus": "DEMOCRITUS HALL",
+  "democritus hall": "DEMOCRITUS HALL",
+
+  "darwin": "CHARLES DARWIN HALL",
+  "charles darwin": "CHARLES DARWIN HALL",
+
+  "archimedes": "ARCHIMEDES HALL",
+  "archimedes hall": "ARCHIMEDES HALL",
+
+  "newton": "SIR ISSAC NEWTON HALL",
+  "newton hall": "SIR ISSAC NEWTON HALL",
+
+  "marconi": "GUFLIELMO MARCONI HALL",
+  "marconi hall": "GUFLIELMO MARCONI HALL",
+
+  "pythagoras": "PYTHAGORAS HALL",
+  "bell": "ALEXANDER GRAHAM BELL HALL",
+  "graham bell": "ALEXANDER GRAHAM BELL HALL",
+  "curie": "MADAM CURIE HALL",
+  "galileo": "GALILEO GALILEI HALL",
+  "planck": "MAX PLANCK HALL",
+  "nobel": "ALFRED BERNHARD NOBEL HALL",
+  "franklin": "BENJAMIN FRANKLIN HALL",
+  "baird": "JOHN LOGI BAIRD HALL",
+  "shambunath hall": "shambhunath hall",
+"sambunath hall": "shambhunath hall",
+
+"sathish dawan hall": "sathish dhawan hall",
+"sathish thawan hall": "sathish dhawan hall",
+"sathish hall": "sathish dhawan hall",
+
+"michel hall": "michael s.brown hall",
+"michal hall":"michael s.brown hall",
+"brown hall": "michael s.brown hall",
+
+
+"krishnan hall": "k.s.krishnan hall",
+"krishna hall": "k.s.krishnan hall",
+
+"vishnu hall": "jayant vishnu narlikar hall",
+"jayant hall": "jayant vishnu narlikar hall",
+
+
+"sathyendranath hall": "satyendranath bose hall",
+
+"bapu hall": "vainu bappu hall",
+"vainu hall": "vainu bappu hall",
+
+"hargobindh hall": "dr.hargobind khorana hall",
+"corana hall": "dr.hargobind khorana hall",
+
+"upendranath hall": "sir upendranath brahmachari hall",
+"bramachari hall": "sir upendranath brahmachari hall",
+
+"anandh hall": "m.anand chakarabarty hall",
+"j.c. bose hall":"microbiology laboratory",
+"microbiology labaratory":"microbiology laboratory",
+"microbiology lab":"microbiology laboratory",
+"bio lab":"microbiology laboratory",
+"biology lab":"microbiology laboratory",
+
+"roy hall":"B.C.ROY HALL",
+"roi hall":"B.C.ROY HALL",
+
+"baskaracharya hall":"BHASKARACARACHARIA HALL",
+"baskar hall":"BHASKARACARACHARIA HALL",
+"acharya":"BHASKARACARACHARIA HALL",
+
+"chandrasekar hall":"CHANDRASKHAR HALL",
+"chandhrasekar hall":"CHANDRASKHAR HALL",
+"chandrasekhar hall":"CHANDRASKHAR HALL",
+"chandra hall":"CHANDRASKHAR HALL",
+
+"josep hall":"JOSEPH E.MURRAY HALL",
+"murray hall":"JOSEPH E.MURRAY HALL",
+
+"computer lab 2":"VIKRAM SARABHAI HALL",
+"vikram":"VIKRAM SARABHAI HALL",
+
+"computer lab 1":"cOMPUTER LAB 1",
+
+"mathematics lab":"J.B.S.HALDANE HALL",
+"math lab":"J.B.S.HALDANE HALL",
+"haldane hall":"J.B.S.HALDANE HALL",
+"jbs hall":"J.B.S.HALDANE HALL",
+
+"sushruta hall":"SUSRUTA HALL",
+
+"aryabata hall":"ARYABHATA HALL",
+
+"donal thomas hall":"E.DONNAL THOMAS HALL",
+"donall thomas hall":"E.DONNAL THOMAS HALL",
+"donnal thomas hall":"E.DONNAL THOMAS HALL",
+
+"bramagupta hall":"BRAHMAGUPTA HALL",
+"bramaguptha hall":"BRAHMAGUPTA HALL",
+
+"sawa jai singh hall":"SAVAI JAI SINGH HALL",
+"sava jai singh hall":"SAVAI JAI SINGH HALL",
+
+"visveshvaraya hall":"M.VISVESVARAYA HALL",
+"visvesvaraya hall":"M.VISVESVARAYA HALL"
+}
